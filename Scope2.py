@@ -13,4 +13,4 @@ def another():
     greeting("Mr_Pirai")
 
 another()
-greeting()#Not work
+# greeting()#Not work
