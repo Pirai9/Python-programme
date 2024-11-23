@@ -7,4 +7,9 @@ print(pi)
 
 #print(dir(rdm))
 for item in dir(rdm):
-    print(item)
+    print(item) 
+
+ #https://docs.python.org/3.13/py-modindex.html
+
+import game  #game module file insert the enother file or module
+print(game.__name__)
