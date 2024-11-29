@@ -8,3 +8,6 @@ Kurinchy.get_Balance()
 
 Piraichselvan.deposit(5000)
 Kurinchy.deposit(6200)
+
+
+Piraichselvan.withdraw(100000000)
